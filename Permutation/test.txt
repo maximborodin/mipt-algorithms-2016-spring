@@ -1,0 +1,1473 @@
+1472
+insert 0 0
+insert 1 1
+insert 2 2
+insert 3 3
+insert 4 4
+add 2 4 9850
+insert 3 3045
+replace 4 300
+insert 1 9195
+add 0 2 8653
+replace 0 2563
+add 0 5 3612
+nextPermutation 1 5
+sum 4 5
+sum 0 1
+insert 4 5599
+replace 5 8682
+insert 6 5665
+nextPermutation 1 6
+replace 4 4584
+nextPermutation 6 8
+add 1 3 2540
+add 4 5 2331
+insert 4 854
+nextPermutation 5 7
+nextPermutation 1 8
+replace 7 7412
+replace 1 8216
+nextPermutation 3 7
+sum 1 1
+insert 1 4379
+replace 3 7104
+add 2 6 7297
+replace 3 4890
+replace 1 236
+sum 4 5
+add 4 10 8458
+nextPermutation 4 5
+replace 6 6328
+add 0 9 1739
+sum 5 6
+nextPermutation 6 10
+nextPermutation 0 10
+sum 1 10
+replace 4 1944
+insert 0 7087
+insert 8 3924
+sum 5 9
+replace 4 2488
+add 0 6 3552
+replace 8 9576
+nextPermutation 0 3
+insert 12 2118
+replace 12 7448
+replace 3 5067
+insert 5 9066
+add 6 14 4734
+sum 4 9
+add 1 8 1446
+sum 2 5
+add 0 6 3871
+nextPermutation 5 12
+sum 3 11
+sum 4 8
+add 0 8 6297
+insert 3 4687
+nextPermutation 1 5
+sum 0 10
+nextPermutation 0 3
+add 2 9 3996
+sum 2 6
+sum 12 13
+sum 9 12
+replace 7 1116
+insert 4 8969
+insert 13 287
+insert 11 1126
+add 6 9 437
+replace 16 9689
+insert 16 1044
+replace 11 6324
+nextPermutation 13 17
+sum 8 16
+nextPermutation 3 16
+nextPermutation 0 2
+replace 1 5615
+nextPermutation 5 19
+insert 1 9027
+sum 7 16
+replace 13 2777
+replace 3 3808
+add 9 20 5224
+sum 4 20
+add 8 12 8665
+replace 10 3061
+add 17 20 5971
+insert 10 339
+nextPermutation 4 10
+insert 15 4944
+add 2 14 3986
+add 2 15 2804
+sum 7 8
+add 2 12 611
+sum 5 10
+nextPermutation 14 22
+replace 9 6149
+insert 12 1158
+nextPermutation 1 2
+replace 18 2231
+nextPermutation 13 19
+add 0 11 470
+add 14 17 5517
+insert 20 5439
+sum 15 23
+sum 0 6
+nextPermutation 13 21
+nextPermutation 3 6
+add 5 23 2016
+nextPermutation 7 13
+nextPermutation 0 10
+replace 8 807
+add 11 24 5876
+replace 13 720
+insert 11 7415
+sum 18 24
+add 9 25 1967
+add 5 19 5101
+add 1 18 1299
+nextPermutation 3 19
+replace 19 9738
+insert 8 391
+nextPermutation 3 5
+sum 16 21
+nextPermutation 17 23
+nextPermutation 14 22
+sum 20 23
+replace 8 8997
+nextPermutation 1 13
+insert 5 2423
+nextPermutation 17 22
+add 6 21 7588
+add 0 12 763
+replace 17 1705
+add 4 18 1962
+insert 11 8238
+insert 27 1148
+sum 21 26
+sum 11 21
+sum 6 19
+add 13 20 1253
+nextPermutation 11 29
+replace 23 2158
+replace 25 2515
+add 10 18 5146
+insert 4 7062
+insert 1 235
+sum 6 25
+replace 16 6538
+sum 5 29
+insert 16 9609
+insert 13 472
+add 6 8 5841
+sum 3 32
+add 14 27 2813
+sum 11 30
+replace 18 3204
+nextPermutation 3 18
+add 31 33 476
+nextPermutation 11 23
+nextPermutation 6 22
+add 6 8 1912
+replace 11 7490
+nextPermutation 4 23
+sum 9 31
+sum 14 27
+sum 26 28
+add 8 10 6245
+insert 28 1979
+sum 18 28
+replace 34 8996
+insert 5 454
+insert 32 8057
+nextPermutation 27 35
+nextPermutation 9 13
+nextPermutation 13 18
+replace 11 884
+insert 31 4936
+insert 17 2423
+replace 27 2576
+insert 33 1965
+add 0 4 7345
+sum 14 16
+replace 28 1156
+nextPermutation 10 34
+sum 9 31
+sum 24 35
+nextPermutation 3 21
+sum 15 38
+replace 1 468
+nextPermutation 1 33
+add 14 15 3028
+sum 28 33
+replace 35 2658
+insert 3 6831
+nextPermutation 2 36
+nextPermutation 30 34
+add 27 37 3326
+replace 4 9712
+add 15 28 5727
+nextPermutation 0 36
+add 7 20 1505
+nextPermutation 10 28
+add 3 38 3659
+sum 16 26
+sum 28 40
+add 22 35 4434
+sum 3 4
+nextPermutation 1 11
+insert 5 9480
+replace 2 8720
+sum 2 33
+sum 17 30
+insert 24 8015
+add 4 27 7054
+sum 3 9
+add 20 40 7067
+nextPermutation 19 20
+add 1 33 9370
+add 24 25 5787
+add 2 14 1439
+nextPermutation 23 34
+sum 7 24
+insert 17 5576
+insert 36 3487
+add 6 40 6177
+add 3 34 5964
+add 28 44 4954
+nextPermutation 3 18
+nextPermutation 13 18
+insert 29 1254
+insert 26 4382
+sum 16 18
+insert 9 117
+replace 21 4001
+nextPermutation 10 45
+sum 3 34
+replace 9 5338
+nextPermutation 22 27
+replace 30 9105
+insert 4 8799
+insert 16 3897
+sum 23 34
+add 15 18 1376
+sum 13 14
+insert 20 949
+replace 47 2186
+nextPermutation 7 35
+nextPermutation 5 13
+nextPermutation 5 14
+sum 33 39
+sum 16 29
+insert 20 9455
+sum 31 39
+nextPermutation 0 38
+insert 45 5403
+add 7 29 3786
+sum 23 27
+nextPermutation 32 38
+sum 11 17
+replace 1 6670
+replace 19 1014
+sum 2 20
+add 19 38 4335
+sum 33 46
+add 18 42 3016
+add 4 25 2333
+nextPermutation 38 48
+replace 17 216
+nextPermutation 6 23
+insert 48 8007
+nextPermutation 3 15
+replace 1 7970
+sum 14 24
+nextPermutation 13 26
+add 12 31 8867
+sum 22 23
+add 36 42 2759
+sum 5 38
+sum 47 49
+add 0 39 7753
+add 31 35 2918
+sum 32 49
+add 2 26 1463
+nextPermutation 34 52
+insert 17 6689
+add 47 52 3874
+replace 48 3252
+sum 13 14
+replace 44 1857
+nextPermutation 29 43
+insert 30 2274
+sum 17 21
+sum 5 22
+insert 44 199
+insert 40 1127
+replace 35 2892
+replace 42 9796
+nextPermutation 18 55
+replace 47 325
+nextPermutation 6 44
+nextPermutation 10 51
+insert 50 3651
+sum 3 32
+nextPermutation 26 30
+insert 54 8505
+insert 24 9997
+nextPermutation 32 44
+sum 17 17
+nextPermutation 48 53
+insert 49 8929
+nextPermutation 35 39
+nextPermutation 35 39
+nextPermutation 21 59
+replace 14 8656
+sum 25 52
+sum 21 34
+insert 5 4127
+sum 47 50
+insert 46 1585
+sum 2 51
+nextPermutation 15 26
+nextPermutation 1 11
+nextPermutation 7 62
+add 20 27 3169
+sum 1 7
+insert 15 1375
+replace 28 3160
+add 30 31 4406
+replace 24 1849
+replace 25 2894
+add 4 57 7304
+replace 24 3809
+sum 30 53
+nextPermutation 0 53
+sum 3 4
+add 44 50 2484
+add 5 13 2452
+insert 51 1706
+nextPermutation 28 32
+sum 31 61
+insert 15 7093
+sum 38 53
+sum 12 63
+sum 21 62
+replace 4 3923
+replace 38 6471
+sum 55 62
+sum 13 23
+replace 11 8271
+sum 16 38
+nextPermutation 6 26
+replace 11 1306
+nextPermutation 27 66
+nextPermutation 8 31
+nextPermutation 12 30
+insert 14 3848
+add 15 52 6854
+sum 11 32
+nextPermutation 25 31
+replace 39 116
+add 28 44 6396
+add 29 38 9921
+insert 26 9620
+replace 3 3195
+insert 10 2402
+nextPermutation 25 54
+insert 17 9856
+insert 26 6352
+nextPermutation 34 36
+replace 3 7362
+insert 39 1493
+insert 41 9292
+insert 73 5136
+sum 35 38
+replace 20 1762
+insert 15 6061
+sum 19 32
+replace 40 532
+add 52 65 2114
+add 30 59 4817
+nextPermutation 39 52
+sum 37 40
+add 25 33 9044
+insert 24 59
+insert 70 1156
+sum 9 37
+replace 16 162
+insert 0 3299
+insert 57 6302
+nextPermutation 8 37
+add 0 3 6127
+add 26 72 5184
+nextPermutation 31 73
+replace 37 1808
+replace 30 5672
+replace 23 612
+nextPermutation 50 67
+nextPermutation 65 75
+replace 1 3470
+sum 58 77
+add 2 6 9905
+add 6 63 6454
+insert 7 7095
+add 27 43 2331
+replace 73 567
+add 57 78 2629
+replace 55 9538
+insert 5 6954
+insert 47 8774
+add 5 63 1649
+sum 4 45
+add 11 19 5620
+replace 39 104
+sum 8 81
+insert 3 104
+replace 80 7223
+nextPermutation 40 54
+replace 10 6135
+add 28 56 1133
+nextPermutation 4 23
+replace 56 7885
+insert 4 4699
+sum 8 48
+insert 33 9402
+add 31 49 6680
+nextPermutation 7 22
+add 7 12 3147
+sum 1 12
+insert 32 8429
+add 20 27 7097
+sum 28 41
+sum 24 84
+nextPermutation 21 85
+replace 25 1697
+insert 34 2273
+replace 40 3740
+add 42 77 536
+nextPermutation 51 77
+nextPermutation 3 16
+nextPermutation 10 41
+sum 9 12
+add 6 68 6523
+sum 39 64
+add 76 84 1634
+sum 53 77
+insert 47 4877
+replace 82 5383
+sum 7 42
+insert 82 3765
+add 18 72 5912
+sum 58 78
+replace 21 3005
+insert 19 8308
+replace 69 3191
+insert 5 3683
+insert 82 2626
+replace 86 5580
+sum 80 85
+sum 36 43
+insert 12 4430
+add 4 37 2637
+replace 48 191
+nextPermutation 54 70
+add 41 75 860
+nextPermutation 29 56
+replace 63 5102
+sum 87 93
+add 21 62 1757
+nextPermutation 68 92
+replace 79 3702
+add 47 75 9635
+insert 87 7426
+sum 15 82
+sum 2 34
+insert 46 3901
+add 58 70 6690
+nextPermutation 11 50
+insert 38 8737
+nextPermutation 32 82
+nextPermutation 30 72
+replace 9 87
+insert 37 3831
+insert 8 4332
+add 14 98 4383
+insert 78 7297
+add 17 74 4241
+sum 40 99
+replace 86 8050
+insert 46 1166
+insert 2 5705
+replace 19 6930
+insert 57 4692
+replace 58 389
+nextPermutation 22 41
+insert 81 7395
+insert 18 6941
+replace 102 2493
+nextPermutation 8 60
+insert 38 4883
+add 14 79 5725
+replace 76 3364
+insert 14 3966
+insert 62 4904
+nextPermutation 73 91
+add 1 93 9380
+add 20 96 3392
+replace 94 5835
+add 41 100 9498
+replace 53 7391
+replace 77 1779
+replace 67 6878
+add 56 67 218
+nextPermutation 12 14
+add 66 74 7792
+nextPermutation 44 90
+sum 45 71
+nextPermutation 72 90
+replace 40 1680
+nextPermutation 39 62
+replace 64 818
+insert 93 1070
+add 5 85 1314
+sum 43 55
+sum 23 30
+replace 0 1126
+insert 0 9298
+nextPermutation 3 89
+add 57 83 756
+sum 25 30
+insert 11 1014
+replace 9 987
+sum 58 90
+add 31 57 600
+nextPermutation 24 98
+nextPermutation 35 103
+nextPermutation 55 59
+add 1 41 6878
+add 24 75 5314
+add 69 103 609
+add 12 89 5452
+sum 57 79
+insert 94 4518
+insert 75 7434
+replace 26 2499
+add 54 57 6022
+nextPermutation 36 55
+sum 6 8
+replace 15 7031
+add 14 78 4417
+sum 23 48
+insert 11 6876
+nextPermutation 23 97
+sum 6 36
+sum 7 73
+insert 28 783
+insert 16 7262
+insert 10 206
+insert 23 2039
+nextPermutation 67 74
+add 35 93 2819
+add 37 84 1522
+add 1 17 1005
+add 2 10 6888
+insert 95 1885
+add 46 67 240
+insert 100 1864
+replace 86 2605
+insert 46 5978
+replace 37 15
+insert 74 7740
+replace 26 9991
+replace 96 9808
+insert 54 6257
+nextPermutation 48 48
+insert 46 3459
+insert 53 292
+replace 77 7360
+replace 78 7629
+add 49 100 6175
+insert 83 5387
+insert 44 7489
+nextPermutation 4 91
+add 91 103 7567
+add 51 54 820
+add 20 41 6004
+nextPermutation 23 115
+insert 101 9240
+replace 68 8288
+add 32 98 4240
+insert 115 3680
+replace 75 6688
+add 72 73 8395
+sum 33 92
+sum 19 81
+nextPermutation 52 118
+sum 69 94
+add 2 25 8527
+nextPermutation 53 111
+insert 9 262
+insert 119 8143
+nextPermutation 14 78
+sum 2 107
+add 21 100 652
+nextPermutation 100 120
+replace 128 2276
+insert 127 8758
+sum 21 82
+sum 9 62
+add 35 124 9283
+nextPermutation 26 117
+add 50 64 5375
+sum 59 126
+add 15 126 955
+insert 37 5778
+insert 1 233
+replace 48 3103
+insert 88 7285
+replace 107 9352
+nextPermutation 40 108
+replace 34 8161
+nextPermutation 78 131
+add 27 65 2133
+sum 17 66
+sum 8 77
+nextPermutation 22 127
+nextPermutation 39 127
+sum 64 77
+add 76 129 4924
+add 29 63 8255
+insert 18 1776
+insert 131 5692
+insert 63 4541
+sum 7 110
+sum 26 59
+sum 78 88
+add 88 95 6413
+add 55 98 2208
+sum 2 35
+insert 70 3395
+sum 82 102
+sum 42 121
+insert 103 8274
+sum 36 61
+insert 7 3290
+sum 88 102
+nextPermutation 13 30
+sum 52 59
+nextPermutation 11 52
+nextPermutation 11 22
+insert 63 848
+insert 66 7974
+insert 125 9066
+sum 44 105
+nextPermutation 11 71
+sum 7 132
+insert 112 151
+replace 123 1067
+sum 82 132
+sum 13 39
+sum 103 113
+replace 105 2135
+nextPermutation 37 75
+replace 68 7071
+sum 44 55
+sum 12 90
+replace 102 3284
+nextPermutation 50 81
+nextPermutation 44 68
+insert 52 7869
+replace 61 3264
+insert 18 3129
+nextPermutation 31 138
+sum 69 135
+insert 140 4688
+sum 15 93
+sum 47 147
+insert 9 5727
+sum 51 62
+nextPermutation 2 47
+sum 20 101
+insert 2 1881
+nextPermutation 42 118
+sum 54 147
+add 5 81 3504
+sum 34 51
+replace 75 7394
+add 55 98 7938
+insert 6 9157
+sum 70 75
+insert 100 8494
+replace 101 5499
+nextPermutation 24 52
+sum 100 134
+nextPermutation 37 132
+replace 88 1824
+sum 44 108
+insert 12 2400
+add 83 143 2951
+nextPermutation 100 147
+replace 104 4102
+sum 82 88
+replace 56 3750
+nextPermutation 37 83
+sum 82 124
+insert 114 7875
+insert 145 3952
+add 67 144 6355
+add 59 84 1392
+add 8 124 2077
+insert 34 9530
+sum 122 145
+insert 12 3324
+nextPermutation 71 133
+replace 70 6066
+replace 17 1856
+add 14 135 8396
+insert 147 5896
+insert 116 9586
+replace 90 6356
+sum 49 132
+replace 22 537
+nextPermutation 78 91
+add 4 32 8307
+replace 151 7229
+insert 151 9906
+add 63 117 1214
+replace 146 3857
+nextPermutation 53 98
+insert 130 2514
+add 71 80 1420
+sum 69 142
+add 32 128 4371
+add 79 152 7103
+replace 138 4436
+replace 68 9863
+sum 62 83
+replace 8 9807
+nextPermutation 8 18
+replace 11 1735
+nextPermutation 56 67
+replace 158 1390
+insert 62 9791
+insert 60 878
+replace 128 9821
+sum 129 152
+sum 70 72
+nextPermutation 51 109
+nextPermutation 89 159
+add 16 128 405
+sum 78 137
+sum 42 144
+insert 64 2573
+add 102 108 760
+nextPermutation 82 102
+add 51 85 3907
+replace 44 5085
+insert 152 5351
+sum 88 129
+replace 112 265
+insert 47 8618
+replace 43 1444
+add 59 133 5926
+nextPermutation 17 127
+add 23 94 5425
+replace 58 2533
+sum 2 58
+nextPermutation 68 105
+sum 20 62
+nextPermutation 160 165
+nextPermutation 20 117
+replace 56 3962
+replace 67 7721
+insert 67 6598
+sum 82 148
+sum 2 106
+nextPermutation 20 55
+insert 165 751
+add 121 154 3446
+replace 135 6060
+nextPermutation 54 115
+sum 129 155
+add 166 166 7425
+sum 62 98
+replace 57 2889
+replace 64 2374
+add 67 157 7212
+add 16 34 8140
+add 15 101 7970
+insert 97 5540
+nextPermutation 19 73
+add 21 84 1265
+add 40 144 4514
+sum 25 119
+nextPermutation 130 151
+add 42 94 3648
+add 31 82 2599
+add 85 134 4177
+add 32 56 874
+sum 87 139
+insert 72 7995
+add 48 77 1997
+replace 70 5655
+sum 75 103
+insert 52 5231
+add 66 118 6124
+sum 126 131
+add 52 61 5226
+insert 109 3495
+insert 4 6223
+add 8 90 3316
+replace 122 8785
+add 77 96 7230
+add 11 166 8267
+replace 92 2027
+insert 66 8530
+add 111 157 684
+add 56 67 2091
+insert 124 8827
+sum 16 174
+replace 160 2119
+sum 10 11
+replace 109 3241
+insert 112 1894
+replace 58 2144
+replace 49 517
+sum 127 150
+sum 134 143
+nextPermutation 44 68
+insert 141 70
+insert 53 686
+nextPermutation 65 132
+insert 41 7597
+sum 49 166
+insert 58 7109
+sum 164 177
+sum 90 103
+sum 74 117
+add 67 136 6994
+replace 34 7933
+add 75 172 5292
+replace 107 4246
+nextPermutation 117 163
+add 23 41 6464
+insert 15 3759
+nextPermutation 162 172
+replace 145 692
+replace 72 564
+add 73 112 7612
+add 74 77 8079
+insert 32 2079
+nextPermutation 7 166
+add 59 76 8256
+replace 4 9493
+insert 46 4127
+replace 66 4047
+replace 1 7407
+add 29 139 3736
+insert 65 5766
+nextPermutation 20 32
+sum 94 144
+add 81 177 957
+nextPermutation 2 29
+sum 86 93
+insert 91 606
+add 117 140 5128
+replace 4 1193
+replace 128 2506
+add 104 178 6643
+add 93 183 1158
+sum 27 49
+insert 180 8600
+replace 62 2618
+nextPermutation 75 151
+add 0 30 1562
+replace 181 3973
+replace 10 7807
+add 85 167 1183
+sum 71 133
+sum 103 170
+sum 35 99
+nextPermutation 90 90
+add 20 73 5283
+nextPermutation 18 167
+nextPermutation 27 182
+sum 172 172
+insert 158 9558
+add 123 137 398
+nextPermutation 40 163
+nextPermutation 19 111
+replace 136 9805
+sum 15 166
+insert 44 7623
+replace 155 4546
+add 18 60 4830
+replace 38 5087
+replace 174 7106
+nextPermutation 82 119
+add 59 156 9978
+replace 159 8380
+sum 128 170
+replace 58 7694
+replace 57 5247
+add 69 93 7561
+add 110 148 7843
+nextPermutation 24 62
+replace 187 6100
+replace 41 7960
+sum 56 97
+nextPermutation 11 84
+insert 150 9861
+add 38 108 3723
+replace 18 3236
+insert 188 1989
+add 81 179 7359
+sum 50 163
+nextPermutation 107 158
+sum 10 78
+replace 52 9332
+insert 73 4101
+insert 75 17
+replace 140 1363
+insert 154 9066
+nextPermutation 91 177
+add 12 91 196
+add 43 86 6491
+nextPermutation 36 87
+sum 7 160
+insert 36 5058
+nextPermutation 4 6
+add 58 164 1412
+sum 108 108
+add 67 88 9399
+sum 89 178
+sum 18 63
+replace 107 1883
+add 24 178 1847
+sum 10 46
+insert 90 2861
+insert 20 6267
+insert 145 5309
+sum 160 180
+replace 13 758
+nextPermutation 150 167
+add 19 62 2373
+nextPermutation 10 105
+nextPermutation 35 97
+sum 45 49
+insert 68 6359
+insert 143 4377
+add 98 120 5334
+add 118 183 5681
+replace 180 5588
+add 160 166 5479
+sum 9 154
+add 3 140 3562
+nextPermutation 97 104
+insert 21 8234
+replace 164 6811
+nextPermutation 41 156
+sum 22 109
+replace 90 9449
+nextPermutation 68 158
+insert 53 4102
+add 27 74 2312
+replace 26 2090
+add 68 107 6507
+replace 178 3929
+nextPermutation 135 161
+replace 68 7681
+nextPermutation 2 132
+insert 55 8581
+nextPermutation 7 157
+add 169 170 4110
+add 0 174 6620
+insert 151 3447
+nextPermutation 116 196
+add 35 182 7646
+add 142 189 2137
+nextPermutation 114 115
+insert 132 5750
+add 68 182 9392
+add 12 32 7402
+add 9 53 2282
+sum 148 195
+replace 2 7579
+sum 18 88
+add 24 152 436
+add 101 103 8457
+nextPermutation 41 75
+nextPermutation 5 62
+replace 166 4183
+replace 174 1862
+insert 125 3824
+insert 102 5061
+replace 174 1085
+sum 90 165
+nextPermutation 83 201
+sum 28 48
+sum 78 84
+replace 1 8040
+nextPermutation 34 82
+add 98 193 4347
+insert 157 7800
+sum 38 120
+replace 186 7671
+nextPermutation 81 158
+insert 74 9525
+nextPermutation 44 206
+replace 172 9084
+nextPermutation 102 127
+insert 46 3399
+insert 97 6370
+replace 166 6659
+sum 119 160
+sum 86 143
+replace 35 1842
+insert 99 7192
+replace 88 5707
+insert 171 7302
+add 32 77 1242
+sum 92 98
+add 122 135 8002
+replace 165 9800
+insert 198 5405
+add 66 102 65
+nextPermutation 30 135
+add 84 91 5168
+replace 6 4231
+sum 101 169
+sum 37 105
+insert 135 1371
+add 2 13 5061
+replace 27 3599
+add 49 173 3821
+nextPermutation 24 174
+insert 160 2501
+add 41 137 4728
+replace 105 972
+nextPermutation 63 154
+insert 155 3896
+add 12 73 6932
+insert 171 9280
+sum 12 31
+replace 210 2698
+sum 17 206
+nextPermutation 38 122
+nextPermutation 33 146
+add 137 184 961
+replace 209 8436
+insert 179 8221
+nextPermutation 69 78
+sum 123 187
+replace 36 3668
+nextPermutation 82 143
+nextPermutation 39 203
+sum 142 193
+insert 179 2102
+insert 93 3417
+add 46 205 458
+add 68 102 2879
+replace 97 922
+replace 192 1101
+replace 83 266
+insert 13 7585
+sum 104 119
+nextPermutation 39 145
+add 31 128 7476
+replace 67 7674
+sum 59 87
+add 10 165 1590
+replace 67 7564
+add 21 146 7875
+nextPermutation 107 117
+insert 70 1481
+replace 102 8819
+insert 217 2805
+sum 17 185
+insert 192 9344
+replace 179 8982
+nextPermutation 166 188
+insert 20 936
+nextPermutation 124 173
+add 28 144 9624
+nextPermutation 77 127
+replace 55 7133
+replace 72 143
+insert 26 5621
+nextPermutation 3 12
+insert 190 6521
+nextPermutation 22 96
+nextPermutation 50 183
+sum 138 171
+replace 205 7042
+sum 52 169
+insert 48 5990
+sum 169 215
+insert 71 1017
+insert 22 7269
+insert 203 8480
+insert 88 369
+add 55 183 6633
+insert 18 79
+insert 76 4882
+nextPermutation 177 217
+sum 152 195
+add 145 208 5051
+add 78 231 8122
+insert 36 2261
+insert 128 1527
+nextPermutation 13 183
+replace 30 3076
+add 11 55 5507
+add 37 173 2972
+nextPermutation 52 101
+nextPermutation 29 90
+add 204 215 8499
+sum 32 229
+replace 80 7182
+add 28 124 3949
+sum 172 193
+add 125 215 6781
+sum 51 77
+sum 132 149
+insert 172 9353
+insert 40 1677
+insert 46 5367
+replace 215 1387
+sum 23 85
+sum 153 161
+replace 146 7516
+insert 24 7642
+add 99 189 1785
+replace 114 1058
+add 50 233 1322
+add 135 188 2228
+replace 93 1352
+insert 115 2705
+add 190 233 4978
+replace 8 9491
+sum 164 190
+sum 84 191
+replace 159 8047
+replace 32 6324
+nextPermutation 36 146
+insert 10 3067
+nextPermutation 5 185
+insert 143 3384
+nextPermutation 70 97
+replace 72 5774
+nextPermutation 84 136
+insert 131 6418
+replace 162 5376
+nextPermutation 57 88
+add 52 160 1632
+insert 16 4428
+insert 112 8937
+nextPermutation 113 245
+add 71 238 922
+insert 201 2618
+sum 156 170
+insert 195 599
+replace 186 8528
+add 29 78 9541
+nextPermutation 132 229
+replace 99 2276
+add 167 246 2952
+nextPermutation 13 194
+insert 192 6164
+insert 13 3627
+replace 210 5418
+replace 115 1069
+sum 15 57
+add 20 78 6756
+insert 230 4147
+insert 81 9503
+insert 142 8343
+add 89 231 3292
+nextPermutation 137 214
+sum 145 164
+replace 0 6295
+nextPermutation 55 210
+insert 70 1591
+add 180 230 7514
+sum 107 234
+sum 16 227
+replace 90 2949
+insert 31 3269
+add 133 161 3162
+nextPermutation 197 210
+nextPermutation 107 128
+sum 31 173
+add 177 253 903
+add 5 129 4863
+replace 50 293
+sum 104 251
+replace 10 5777
+nextPermutation 40 214
+replace 129 5158
+add 82 156 1886
+insert 128 3706
+sum 148 222
+sum 38 80
+nextPermutation 151 203
+nextPermutation 31 210
+add 38 62 3997
+add 40 66 5022
+sum 140 191
+sum 143 237
+sum 112 211
+nextPermutation 77 146
+sum 94 147
+nextPermutation 10 169
+add 23 210 8606
+nextPermutation 36 74
+insert 188 5610
+sum 156 205
+replace 163 4995
+insert 148 7670
+sum 202 226
+replace 101 4721
+sum 90 152
+add 72 91 9775
+sum 147 201
+nextPermutation 135 164
+sum 194 223
+replace 205 8607
+insert 48 2051
+sum 138 159
+sum 149 162
+nextPermutation 63 131
+insert 158 2036
+replace 177 2435
+add 153 175 2153
+nextPermutation 107 228
+add 35 72 1974
+insert 74 4245
+replace 219 950
+sum 131 155
+sum 147 202
+insert 218 2575
+add 95 125 9406
+nextPermutation 127 187
+insert 10 8437
+insert 85 6600
+insert 1 4629
+nextPermutation 149 169
+insert 241 7071
+nextPermutation 63 64
+replace 54 5276
+insert 224 1706
+add 95 174 355
+insert 3 3399
+replace 86 5400
+replace 182 1213
+nextPermutation 238 258
+replace 238 3650
+insert 252 5614
+sum 233 236
+nextPermutation 84 179
+sum 190 245
+insert 105 8516
+sum 58 256
+sum 132 171
+replace 12 9174
+sum 64 109
+replace 248 1708
+add 111 150 1045
+replace 41 7747
+add 228 254 9453
+replace 219 198
+replace 110 2662
+insert 218 2070
+add 94 186 719
+sum 154 261
+replace 42 7796
+nextPermutation 79 83
+nextPermutation 51 170
+insert 186 1598
+insert 231 68
+add 130 220 5730
+replace 201 49
+add 40 93 7359
+replace 139 9334
+add 24 144 2250
+add 77 91 8514
+nextPermutation 173 194
+nextPermutation 22 260
+replace 128 3842
+insert 242 1271
+add 22 226 1009
+sum 24 163
+nextPermutation 14 74
+sum 135 175
+insert 161 5817
+replace 126 6146
+nextPermutation 82 243
+sum 3 56
+insert 1 1623
+sum 67 193
+sum 67 84
+add 120 239 2701
+sum 42 83
+sum 94 266
+replace 104 7146
+sum 17 46
+add 87 116 9177
+replace 100 3417
+insert 236 3418
+sum 0 3
+nextPermutation 12 31
+sum 78 202
+insert 59 6999
+nextPermutation 7 52
+sum 160 276
+insert 40 5910
+sum 265 270
+replace 261 4284
+replace 178 5356
+sum 112 222
+nextPermutation 23 101
+replace 218 4063
+replace 174 1750
+sum 34 163
+replace 269 2869
+sum 118 245
+add 117 135 7248
+insert 221 8347
+nextPermutation 46 214
+insert 48 4136
+sum 28 166
+replace 81 4249
+add 167 248 7012
+insert 278 3020
+add 23 62 3375
+sum 52 170
+nextPermutation 53 54
+nextPermutation 100 113
+insert 271 8428
+insert 223 5764
+insert 255 8699
+replace 117 5037
+sum 102 256
+insert 10 4088
+insert 181 1575
+replace 108 2102
+nextPermutation 178 250
+sum 158 263
+sum 135 195
+add 122 272 9269
+replace 132 1782
+insert 111 1696
+replace 200 392
+add 171 285 245
+insert 212 1599
+sum 200 272
+sum 63 282
+sum 38 255
+add 57 131 8328
+insert 195 9585
+add 69 120 641
+sum 31 131
+nextPermutation 27 150
+add 246 269 7716
+replace 25 1249
+add 221 248 8963
+replace 75 2817
+sum 9 272
+replace 49 692
+replace 251 2236
+sum 93 139
+add 0 158 9087
+insert 118 6523
+sum 90 188
+insert 41 4872
+replace 182 1051
+replace 221 3448
+insert 61 105
+sum 123 142
+add 22 53 1423
+insert 141 8371
+insert 40 4782
+add 35 123 4169
+insert 6 7333
+add 177 202 1501
+nextPermutation 81 118
+add 66 66 9012
+nextPermutation 111 119
+replace 141 363
+nextPermutation 256 261
+insert 233 582
+sum 167 210
+nextPermutation 31 259
+replace 159 6037
+nextPermutation 75 223
+nextPermutation 23 93
+nextPermutation 82 243
+insert 269 1349
+nextPermutation 39 179
+replace 6 3852
+sum 64 284
+insert 26 1842
+nextPermutation 71 239
+add 97 134 4889
+nextPermutation 52 96
+replace 111 640
+sum 163 273
+nextPermutation 16 283
+nextPermutation 32 208
+replace 181 7252
+insert 58 7162
+nextPermutation 184 290
+replace 259 190
+insert 215 9975
+insert 179 5504
+nextPermutation 74 162
+nextPermutation 167 261
+sum 39 192
+sum 61 240
+add 30 55 9021
+sum 104 229
+sum 45 239
+sum 37 157
+replace 187 9210
+add 62 119 3257
+replace 34 3041
+nextPermutation 194 237
+nextPermutation 298 301
+insert 34 857
+sum 146 279
+sum 96 250
+replace 119 7155
+nextPermutation 79 284
+add 33 116 7813
+replace 40 1816
+replace 236 9478
+insert 210 8517
+sum 22 187
+replace 7 2416
+nextPermutation 196 245
+replace 85 1907
+replace 61 2048
+insert 228 2793
+add 122 134 1341
+replace 243 8402
+add 75 177 8848
+sum 47 108
+replace 103 4447
+nextPermutation 53 98
+replace 300 3197
+nextPermutation 55 212
+replace 182 6084
+add 28 31 4062
+nextPermutation 192 271
+insert 125 7458
+sum 208 217
+sum 97 264
+replace 263 4668
+insert 298 6825
+insert 263 4441
+insert 34 7251
+insert 231 8491
+nextPermutation 136 218
